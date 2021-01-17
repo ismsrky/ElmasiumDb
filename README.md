@@ -1,4 +1,4 @@
-# The database backups of 'Elmasium'
+# The database of 'Elmasium'
 
 This is the Ms Sql Server database in order to run 'Elmasium' project.
 
